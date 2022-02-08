@@ -1,0 +1,8 @@
+body {
+  display: flexbox;
+  text-align: center;
+}
+
+#content div {
+  justify-content: space-around;
+}
